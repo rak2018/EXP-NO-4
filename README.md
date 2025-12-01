@@ -1,12 +1,11 @@
 # HALF-WAVE-RECTIFIERS-EXP-NO-4
-# AIM 
-<img width="1730" height="395" alt="image" src="https://github.com/user-attachments/assets/4fbf4061-e947-40cc-bc93-d81386ea2ff2" />
+# AIM AND SOFTWARE REQUIRED
+<img width="300" height="131" alt="Screenshot 2025-12-01 095052" src="https://github.com/user-attachments/assets/be4c84dc-1530-4474-880f-6b2d2a82bea7" />
 
-# SOFTWARE REQUIRED
-<img width="1562" height="637" alt="image" src="https://github.com/user-attachments/assets/fa911aaf-b5cb-4855-b6c4-06a3d981a65b" />
 
 # THEORY
-<img width="1060" height="641" alt="image" src="https://github.com/user-attachments/assets/42368bb6-1ace-4539-a35a-24f4b75340f3" />
+<img width="342" height="318" alt="Screenshot 2025-12-01 095158" src="https://github.com/user-attachments/assets/613d90e5-84d8-4b53-9ae3-a07ff1390fb4" />
+
 
 # CIRCUIT DIAGRAM 
 <img width="568" height="653" alt="image" src="https://github.com/user-attachments/assets/d43b3ccc-49ab-449b-9476-b85996a7e92e" />
@@ -15,10 +14,10 @@
 <img width="530" height="595" alt="image" src="https://github.com/user-attachments/assets/76e7b4f1-fb00-47a9-b94b-42f46ac863fc" />
 
 # PROCEDURE 
-<img width="748" height="584" alt="image" src="https://github.com/user-attachments/assets/ec0750c7-92af-42a5-bfb8-089752b3b308" />
+<img width="208" height="200" alt="Screenshot 2025-12-01 095236" src="https://github.com/user-attachments/assets/dad4585c-ad5b-4d5e-8766-48147baf3c2a" />
 
 # RESULT 
-<img width="1803" height="501" alt="image" src="https://github.com/user-attachments/assets/8fb46644-8804-426e-858e-0417607ea20c" />
+<img width="361" height="128" alt="Screenshot 2025-12-01 095308" src="https://github.com/user-attachments/assets/2b82ffee-109b-47e8-bbd4-f019781682d5" />
 
 # OUTPUT 
 <img width="1189" height="460" alt="image" src="https://github.com/user-attachments/assets/4d58cebe-8306-4f59-91cc-8c81628a3f28" />
